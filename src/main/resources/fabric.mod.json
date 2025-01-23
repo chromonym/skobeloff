@@ -11,7 +11,7 @@
 		"homepage": "https://cyan.pet/",
 		"sources": "https://github.com/chromonym/skobeloff"
 	},
-	"license": "CC0-1.0",
+	"license": "BSD-3-Clause",
 	"icon": "assets/skobeloff/icon.png",
 	"environment": "*",
 	"entrypoints": {
