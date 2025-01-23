@@ -3,7 +3,9 @@
 	"package": "pet.cyan.skobeloff.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"CloakingMixin",
+		"MobEntityInvoker",
+		"LivingEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

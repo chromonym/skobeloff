@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GSG",
+        "SDS",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "tag": "c:salts"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "skobeloff:salt_pendant",
+        "count": 1
+    }
+}

@@ -3,13 +3,13 @@
 	"id": "skobeloff",
 	"version": "${version}",
 	"name": "Skobeloff",
-	"description": "Cyan's personal mod",
+	"description": "Cyan's personal mod (currently literally only adds one thing)",
 	"authors": [
-		"Chromonym"
+		"chromonym"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://cyan.pet/",
+		"sources": "https://github.com/chromonym/skobeloff"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/skobeloff/icon.png",
@@ -33,9 +33,7 @@
 		"fabricloader": ">=0.16.10",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
-		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
+		"fabric-api": "*",
+		"trinkets": ">=3.7.2"
 	}
 }
